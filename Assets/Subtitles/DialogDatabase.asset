@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d030b5d44e3efc346b8a6bce860a9bd3, type: 3}
+  m_Name: DialogDatabase
+  m_EditorClassIdentifier: 
+  dialogs:
+  - title: Bruggenbouwers
+    times:
+    - 16
+    - 7
+    - 7.5
+    - 8.6
+    - 8.3
+    - 9.1
+    - 4.1
+    - 5.8
+    - 6.7
+    - 3.3
+    - 4.8
+    - 9.7
+    - 10.1
+    - 4.1
+    - 5.9
+    - 7.4
+    - 2.4
+    - 6.4
+    - 7.2
+    - 6.1
+    - 6.4
+    - 5.4
+    - 7.6
+    - 6
+    - 3.9
+    - 7.6
+    lines:
+    - '[Skip]'
+    - Goeiedag! Ik ben Niek Spreij, studentvertegenwoordiger van het project bruggenbouwers
+      en grensverleggers.
+    - Wij zijn van bruggenbouwers en grensverleggers Amersfoort en ik ga jullie wat
+      vertellen over wat wij doen.
+    - We zijn hier vandaag op kids centrum De Kinderhof in Amersfoort en hier komen
+      wij regelmatig met elkaar samen,
+    - 'dat zien jullie hier aan de andere kant van de ruimte.
+
+      En wij komen
+      samen met het kernteam.'
+    - 'Dat kernteam bestaat uit: schooldirecteuren, docenten van de opleidingen vaktherapie,
+      PABO, pedagogiek,'
+    - van het lectoraat duurzame gemeenschappen, studentvertegenwoordigers.
+    - En samen werken wij aan de complexe, maatschappelijke vraagstukken binnen het
+      onderwijs.
+    - Eigenlijk onderzoeken wij hoe inter-professioneel samenwerken de oplossing
+      kan bieden.
+    - Dat doen wij dan ongeveer zo.
+    - "En \xE9\xE9n van onze uitwerkingen daarvoor zijn proeftuinen. "
+    - Dat zijn leergemeenschappen op twee scholen hier op De Kinderhof en op Vlinderslag
+      in Kruiskamp ook mooi in Amersfoort.
+    - En in die leergemeenschappen werken studenten van de opleidingen vaktherapie,
+      PABO en pedagogiek samen aan de vraagstukken binnen de school.
+    - Zij werken bijvoorbeeld samen aan een meidengroep,
+    - of ze werken samen als er een casus is waar een kind wordt gepest.
+    - En dan kunnen zij elkaar aanvullen op waar hun eigen dicipline eigenlijk ophoudt.
+    - "Ze vullen elkaar aan, komen tot nieuwe idee\xEBn, "
+    - maar weten ook beter wat zij zelf kunnen brengen binnen inter-professionele
+      samenwerkingen.
+    - En om ze te ondersteunen, dat is uiteindelijk onze taak, werken wij bijvoorbeeld
+      samen aan zo'n routekaart.
+    - Dit is een kaart die studenten, of werknemers van de kindcentra waar wij mee
+      samenwerken
+    - erbij kunnen pakken om te onderzoeken welke tools zij bijvoorbeeld brengen
+    - 'en hoe zij die samenwerking nog sterker kunnen verbeteren. Want we hebben
+      gemerkt dat dat ontzettend belangrijk is:'
+    - Communiceren, samenwerken, en weten wat je aan elkaar hebt.
+    - "[Or\xE9lie]: Welke tools breng jij in?\n[Edwin]: Ik denk dat ik het spel-element
+      inbreng"
+    - '[Student 1]: Structuur
+
+      [Student 2]: Ja, ook het studenten perspectief
+      van vaktherapie'
+    - '[Niek]: Ja, student perspectief en samen kunnen werken, ja'
+  - title: Leeromgeving Overvecht
+    times:
+    - 4.1
+    - 3.8
+    - 10.8
+    - 3
+    - 7.6
+    - 4.7
+    - 8
+    - 2.2
+    - 6.4
+    - 3.1
+    - 7.3
+    - 3.9
+    - 8.3
+    - 4.7
+    - 4.1
+    - 10.9
+    - 8.8
+    - 6.5
+    - 10.5
+    - 7.6
+    - 9.1
+    - 7.9
+    lines:
+    - '[Skip]'
+    - Welkom in de leeromgeving Overvecht!
+    - We zijn hier in het gezondheidscentrum De Amazone en ik doe even de deur dicht
+      want daar hangt een prachtig studentenproject op.
+    - Als een van de voorbeelden van wat wij hier allemaal met studenten doen?
+    - 'We hebben hier een fysieke plek, hier in het gezondheidscentrum, maar dit
+      is zeker niet de enige plek waar we met studenten actief zijn. '
+    - We zijn namelijk in de hele buurt actief.
+    - Het gezondheidscentrum is een belangrijke plek, maar ook de ontmoetingsplek
+      NOA bij NIeuw Tamarinde is voor ons een plek waar veel studenten actief zijn.
+    - Nou, wat doen studenten dan zoal?
+    - Wat wij hier proberen te doen met studenten is continu aansluiten bij dingen
+      die hier al lopen.
+    - Dus bij activiteiten die al in de wijk gebeuren
+    - rondom enerzijds bestaanszekerheid, dus wat doet het met je als mens als je
+      bestaanszekerheid niet zeker is?
+    - En de effecten daarvan op gezondheid. En dat dan beide kanten op
+    - We hebben onze doelstelling met veel mensen geformuleerd en dat zijn dan bewoners
+      hier in Overvecht, studenten, professionals hier in het gezondheidscentrum
+    - en docenten die hangen hier, die zijn nog in wording zoals je ziet.
+    - We hebben hier degene met alle bingowoorden die bijna al leesbaar is.
+    - En hier hebben we degene die gewoon goed leesbaar is, waar bewoners vooral
+      maar ook studenten trouwens en ikzelf eigenlijk ook veel blijer van worden
+    - Daar zien jullie nog dat we twee kleinere hokjes hebben daar kan je ook rustig
+      werken en daar kan je ook eventueel met clienten naartoe.
+    - Wat wij hier bijvoorbeeld doen is met studenten mensen helpen bij het begrijpen
+      van hun papierwerk.
+    - 'Dat kan fysiek papier zijn, maar dat is veel vaker natuurlijk digitaal papier,
+      als je ooit zelf een belastingaangifte gedaan hebt dan weet je hoe ingewikkeld
+      dat is, tenminste vindt ik. '
+    - 'En dan ben ik Nederlandstalig, kan ik goed lezen en schrijven, en in de wijk
+      waar wij hier nu zitten is dat vaker niet zo. '
+    - 'Dus hoe dan toch te zorgen dat je papierwerk op orde is, zeker in een situatie
+      waar je ook zorg nodig hebt. '
+    - Dus mocht je het leuk vinden om een keer op bezoek te komen, wees welkom! We
+      hebben een hele prettige plek om samen te leren.
+  - title: Vital'nya
+    times:
+    - 12.3
+    - 5.1
+    - 3.8
+    - 6.2
+    - 3.3
+    - 7.2
+    - 10.7
+    - 4.1
+    - 9.7
+    - 5.7
+    - 3.9
+    - 3.6
+    - 6.3
+    - 3.1
+    - 6.5
+    - 3.9
+    - 5.4
+    - 4.8
+    lines:
+    - '[Skip]'
+    - Welkom allemaal bij Vital'nya, ik ga jullie vandaag even meenemen in onze ruimte
+      en onze organisatie.
+    - "Vital'nya is een plek voor Oekra\xEFeners, daar komen ze samen."
+    - 'Wij regelen dan de kidsclub, de bedoeling is dat de kinderen de tijd krijgen
+      om hier eens lekker te spelen en even uit te leven. '
+    - 'Dat doen we altijd op een woensdag en daar doen wij verschillende dingen voor.  '
+    - Zoals nu zie je dat ze alweer druk aan de tafel bezig zijn. Zijn ze bijvoorbeeld
+      bezig met het spring event te organiseren voor de kinderen.
+    - 'Bijvoorbeeld met ze naar de boerderij gaan en dat soort dingen en dat doen
+      wij dan in samenwerking met bijvoorbeeld een social work medewerker of met
+      een event student. '
+    - 'En dat doen wij dan hier aan tafel. Deze tafel wordt ook gebruikt voor bijvoorbeeld
+      meetings, '
+    - "doen we zoal met Oekra\xEFense psycholoog, Anna Z., en we hebben ook nog een
+      andere Anna waarmee we ook samenwerken met Oekra\xEFeners."
+    - En die tafel wordt ook natuurlijk gebruikt gewoon voor als we met de kinderen
+      zijn, zodat ze lekker kunnen knutselen of lekker kunnen spelen, dat soort dingen.
+    - En zoals je ziet hebben we hier ook nog een best wel brede ruimte waar ze ook
+      nog lekker vrij kunnen spelen.
+    - 'We gaan bijvoorbeeld wel eens voetballen, vinden ze ook heel leuk en dat maakt
+      ze ook altijd heel blij. '
+    - Dat is ook juist zo mooi aan dit werk dat je dan die kinderen zo blij kan maken
+      en ze even een rustig plekje geeft om zichzelf te zijn.
+    - En dan hebben we hier achter ook nog een hele ruimte, is nog ook voor de kinderen
+      om te spelen.
+    - En daar kunnen ze bijvoorbeeld met blokjes, met auto's, met LEGO's spelen,
+      hebben ze ook nog een hele ruimte, je kan het net niet goed zien.
+    - Maar al die spullen zitten hier bijvoorbeeld in de kasten en dan kunnen ze
+      zich daar helemaal uitleven.
+    - En er is ook een plek voor ouders om nog lekker rustig te zitten als ze even
+      willen relaxen, dus dat is ook super fijn.
+    - Dat is een beetje hoe het er hier een beetje uitziet, dus ik hoop dat je een
+      beetje een beeld hebt gekregen.
+  - title: MKB Werkplaats
+    times:
+    - 21.3
+    - 2
+    - 8.5
+    - 4.8
+    - 3
+    - 6.1
+    - 8.7
+    - 6.9
+    - 3.1
+    - 19
+    lines:
+    - '[Skip]'
+    - Hey! Welkom bij de MKB Werkplaats!
+    - Wij werken hier samen met onze partners uit het MBO,  HBO en uit het werkveld
+      heel hard om samen Utrechts onderwijs te maken.
+    - We hebben hier een werkplek voor onszelf, maar er is ook een werkplek voor
+      jou.
+    - 'We bieden namelijk flex plekken voor onderwijs professionals, '
+    - maar we bieden hier ook een praktijk ruimte of project ruimte voor studenten
+      om aan de slag te gaan met opdrachtgevers.
+    - We hebben een flexiebel in te delen ruimte, we hebben ruimte voor schermwerk
+      en we hebben de ruimte om echt de handen uit de mouwen te steken.
+    - 'Dus wil je even los van school? Wil je eventjes dichtbij ondernemers zitten,
+      of in een ondernemende, creatieve omgeving zitten? '
+    - Neem gewoon contact op en dan kijken we wat de mogelijkheden zijn.
+    - En als de ruimte te klein is, kunnen we altijd uitwijken naar andere ruimtes.
+      Dus kijk even rond.
+  - title: Hoefkwartier
+    times:
+    - 8.4
+    - 6.5
+    - 7.4
+    - 9.3
+    - 3.7
+    - 7.3
+    - 6.7
+    - 3.7
+    - 6.6
+    - 2.4
+    - 4.4
+    - 4.7
+    - 4
+    - 5.8
+    - 8.3
+    - 3.5
+    - 8.4
+    - 2.4
+    - 3.4
+    - 6.8
+    - 5.7
+    - 4.6
+    - 8.7
+    - 5.7
+    - 9.1
+    - 3
+    lines:
+    - '[Skip]'
+    - Welkom in Amersfoort! We zijn hier in het Hoefkwartier en we staan hier in
+      het Celciushuis.
+    - "Het Celciushuis is \xE9\xE9n van de innovatiewerkplaatsen van de Hogeschool
+      Utrecht bestemd voor de expertise \"Smart Sustainable Cities\" "
+    - En wat doen we hier? We bouwen hier met de gemeente, met bewoners, met bedrijven
+      aan een wijk die zo gezond en duurzaam mogelijk moet zijn
+    - En je hoort het al op de achtergrond, er wordt druk gebouwd.
+    - We proberen studentenprojecten te koppelen, en onderzoeksprojecten natuurlijk,
+      te koppelen aan de vragen die hier in de wijk spelen.
+    - Dat doen we door in gesprek te gaan met bewoners, met gemeente, met omringende
+      bedrijven, met het ROC wat hiernaast ligt
+    - 'En zo komen we erachter: Wat speelt er nou? Waar is er behoefte aan?'
+    - 'Als er een koppeling is met onze kennis en innovatie agenda en met de onderzoeken
+      die we al doen maken we daar een nieuw project van. '
+    - En wat we proberen is om projecten telkens door te geven.
+    - Dus studenten maken een project, leveren iets op, maar daaruit volgt weer een
+      volgend project.
+    - Zo gooien we niks weg, want ja we willen natuurlijk zo circulair mogelijk zijn
+    - 'Een voorbeeld daarvan is het studentenproject "Voices of Nature" '
+    - waarbij we hebben geprobeerd om de natuur een stem te geven in de gebiedsontwikkeling
+      door middel van een spel
+    - 'Dat is voor ons door ontwikkeld in co-create door de studenten in een project '
+    - waarbij ze de toekomstige generaties en stem proberen te geven, ook door middel
+      van een spel.
+    - En dat zorgt er nu voor dat we met vaktherapie studenten, in opdracht van de
+      gemeente proberen om daar zelfzinnig beleid aan te krijgen
+    - 'Een ander voorbeeld is collectief energie opslaan. '
+    - Er is in dit wijkje een heel groot probleem met congestie en warmte
+    - Hoe kan je collectief energie gaan opslaan? Wat is daar voor nodig?
+    - 'Studenten hebben daar een project van gemaakt, dat gaat vervolgens weer door
+      naar een ander project om daar echt een reken tool van te maken. '
+    - Zodat projectontwikkelaars daarmee aan de slag kunnen en zo bouwen we telkens
+      verder.
+    - En dat is een hele leuke manier van onderwijs. We komen erachter dat studenten
+      kunnen de problemen niet isoleren
+    - We kunnen niet alleen maar de technische problemen oplossen, want we hebben
+      te maken met politiek, we hebben te maken met de bewoners
+    - We hebben te maken met de bedrijven, dus elk project dat we doen moet innovatie
+      in zich hebben op technisch vlak, sociaal vlak, politiek vlak en economisch
+      vlak.
+    - Leuk om aan te werken, niet altijd even makkelijk, maar wel heel erg leuk
+  - title: Carthesius
+    times:
+    - 6.8
+    - 13.3
+    - 4.6
+    - 8.7
+    - 6
+    - 6.8
+    - 3.3
+    - 6.2
+    - 11.9
+    - 4.9
+    - 6.6
+    - 11.4
+    - 4.7
+    - 9
+    lines:
+    - We staan hier in Cartesius Utrecht, een gezonde, duurzame, nieuwe stadswijk
+    - die hier naast ons wordt en waar wij nu, en ik ben Marja van Reijn van MRP
+      samen met MRP development de hele ontwikkeling voor doen.
+    - 'Een heel bijzondere plek, want hier komen niet alleen maar ruim 3.000 woningen, '
+    - hier heb je ook het historische kamp[???] waar de huiskamer van de wijk gaat
+      komen met allerlei voorzieningen.
+    - Er komen ook nieuwe woningen en hier wordt een hele bijzondere wijk gemaakt.
+    - 'De wijk waarin wij samen met onder andere de Hogeschool Utrecht gaan monitoren,
+      in kaart gaan brengen, '
+    - Wat nou eigenlijk gezonde verstedelijking is.
+    - Hoe kunnen we mensen helpen om gezond te gaan leven? Om een gezonde leefstijl
+      te gaan krijgen?
+    - En dat is heel bijzonder. Het is zelfs zo bijzonder dat het WHO Carthesius
+      heeft uitgekozen als pilot voor de gemeente Utrecht en Nederland
+    - 'om te gaan monitoren hoe we dit met elkaar daadwerkelijk gaan realiseren. '
+    - 'Ik vind het ook heel fijn dat we samen kunnen werken met de studenten van
+      de Hogeschool Utrecht, omdat we niet alleen kennis delen, '
+    - maar ook samen met elkaar heel veel leren, weer gaan implementeren en weer
+      verder te komen om voor de toekomst gebieden te gaan ontwikkelen, ook voor
+      volgende generaties
+    - 'En alleen maar door dit te doen, samen te leren en samen te werken, '
+    - maken we stappen waarin we het welzijn van mens en dier en de bijdrage aan
+      onze wereld te gaan borgen.
